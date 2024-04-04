@@ -1,0 +1,6 @@
+@FileDistributionService_HostAddress = http://localhost:5243
+
+GET {{FileDistributionService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
